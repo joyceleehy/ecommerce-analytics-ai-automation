@@ -234,16 +234,14 @@ This project enables:
 - Automated reporting emails
 
 ---
-
-## Author
-
-**Joyce Lee How Yee**
-
-PL-300 Certified Data & BI Analyst
-
-### Connect
-- LinkedIn: https://linkedin.com/in/joyceleehowyee
-- GitHub: https://github.com/joyceleehy
-
 ### Skills
 Power BI • SQL • Python • Data Analytics • Dashboarding • KPI Reporting • Business Intelligence
+
+---
+## About Me
+
+Data Analyst with a background in People Analytics and BI. Currently open to Data Analyst, BI Analyst, and Analytics roles across industries.
+
+📎 [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
+
+
